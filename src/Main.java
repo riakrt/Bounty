@@ -12,4 +12,7 @@ void main () {
     }
 
     String name = "nameffff";
+
+    System.out.println("Hello World");
 }
+;;
