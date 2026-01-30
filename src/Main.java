@@ -11,5 +11,5 @@ void main () {
         IO.println("i = " + i);
     }
 
-    String name = "name";
+    String name = "nameffff";
 }
