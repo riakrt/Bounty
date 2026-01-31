@@ -1,3 +1,16 @@
+# Gradle
+.gradle/
+build/
+
+# IntelliJ SDK & Sandbox
+.intellijPlatform/
+runIde/
+
+# Local configuration
+local.properties
+*.iml
+.idea/
+
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/

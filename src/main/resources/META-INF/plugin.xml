@@ -1,0 +1,34 @@
+<idea-plugin>
+    <id>com.example.bounty.plugin</id>
+
+    <name>Bounty</name>
+
+    <vendor email="support@yourcompany.com" url="https://www.yourcompany.com">YourName</vendor>
+
+    <description>
+    </description>
+
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+    </extensions>
+
+    <actions>
+        <action
+                id="ExplainErrorAction"
+                class="com.devease.actions.ExplainErrorAction"
+                text="Explain Error"
+                description="Explain the selected error in plain English">
+            <add-to-group group-id="EditorPopupMenu" anchor="last"/>
+        </action>
+
+        <action
+                id="ExplainCodeAction"
+                class="com.devease.actions.ExplainCodeAction"
+                text="Explain Code"
+                description="Explain selected code in plain language">
+            <add-to-group group-id="EditorPopupMenu" anchor="last"/>
+        </action>
+
+    </actions>
+</idea-plugin>
