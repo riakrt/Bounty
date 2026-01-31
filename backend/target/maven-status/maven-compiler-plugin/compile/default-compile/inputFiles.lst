@@ -1,0 +1,6 @@
+/Users/gloria/IdeaProjects/bounty/backend/src/main/java/com/devease/backend/BackendApplication.java
+/Users/gloria/IdeaProjects/bounty/backend/src/main/java/com/devease/backend/config/OpenAiConfig.java
+/Users/gloria/IdeaProjects/bounty/backend/src/main/java/com/devease/backend/controller/AiController.java
+/Users/gloria/IdeaProjects/bounty/backend/src/main/java/com/devease/backend/dto/AiResponse.java
+/Users/gloria/IdeaProjects/bounty/backend/src/main/java/com/devease/backend/dto/ExplainRequest.java
+/Users/gloria/IdeaProjects/bounty/backend/src/main/java/com/devease/backend/service/OpenAiService.java
